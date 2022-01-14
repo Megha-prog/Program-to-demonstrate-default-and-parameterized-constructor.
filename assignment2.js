@@ -7,3 +7,7 @@ let num1 = multiply(5);///Here second value has not been given so it will take d
 console.log(num1);
 let num2 = multiply(5, 8);
 console.log(num2);
+
+//////Output//////
+10
+40
